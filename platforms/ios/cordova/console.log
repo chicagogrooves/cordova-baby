@@ -104,3 +104,44 @@ https://developer.apple.com/icloud/documentation/data-storage/
 
 2014-10-06 13:44:13.876 CordovaBaby[81509:1617871] Resetting plugins due to page load.
 2014-10-06 13:44:13.920 CordovaBaby[81509:1617871] Finished load of: file:///Users/dradcliffe/Library/Developer/CoreSimulator/Devices/7BE119C8-184C-4510-A7DD-C9ED5289D48C/data/Containers/Bundle/Application/15664D03-7C46-4807-B7A7-C7245576131C/CordovaBaby.app/www/index.html
+2014-10-06 13:47:53.602 CordovaBaby[81776:1620599] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dradcliffe/Library/Developer/CoreSimulator/Devices/7BE119C8-184C-4510-A7DD-C9ED5289D48C/data/Containers/Data/Application/D295C5C8-15EC-491F-BE31-73047371D4F7/Library/Cookies/Cookies.binarycookies
+2014-10-06 13:47:53.668 CordovaBaby[81776:1620599] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-06 13:47:53.668 CordovaBaby[81776:1620599] Multi-tasking -> Device: YES, App: YES
+2014-10-06 13:47:53.683 CordovaBaby[81776:1620599] Unlimited access to network resources
+2014-10-06 13:47:53.686 CordovaBaby[81776:1620599] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-06 13:47:54.001 CordovaBaby[81776:1620599] Resetting plugins due to page load.
+2014-10-06 13:47:54.103 CordovaBaby[81776:1620599] Finished load of: file:///Users/dradcliffe/Library/Developer/CoreSimulator/Devices/7BE119C8-184C-4510-A7DD-C9ED5289D48C/data/Containers/Bundle/Application/8A69E89D-5CCF-4FDC-A76A-3C4462771566/CordovaBaby.app/www/index.html
+2014-10-06 13:50:02.173 CordovaBaby[81955:1622428] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dradcliffe/Library/Developer/CoreSimulator/Devices/7BE119C8-184C-4510-A7DD-C9ED5289D48C/data/Containers/Data/Application/CBB74FF2-4189-44BE-AC46-E658DCDEDF53/Library/Cookies/Cookies.binarycookies
+2014-10-06 13:50:02.229 CordovaBaby[81955:1622428] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-06 13:50:02.229 CordovaBaby[81955:1622428] Multi-tasking -> Device: YES, App: YES
+2014-10-06 13:50:02.234 CordovaBaby[81955:1622428] Unlimited access to network resources
+2014-10-06 13:50:02.236 CordovaBaby[81955:1622428] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-06 13:50:02.417 CordovaBaby[81955:1622428] Resetting plugins due to page load.
+2014-10-06 13:50:02.473 CordovaBaby[81955:1622428] Finished load of: file:///Users/dradcliffe/Library/Developer/CoreSimulator/Devices/7BE119C8-184C-4510-A7DD-C9ED5289D48C/data/Containers/Bundle/Application/943BCD0C-3914-4659-A88A-EC8A4C6740B8/CordovaBaby.app/www/index.html
+2014-10-06 13:50:07.047 CordovaBaby[81955:1622428] THREAD WARNING: ['Notification'] took '19.291992' ms. Plugin should use a background thread.
+2014-10-06 13:50:25.210 CordovaBaby[82110:1623057] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/dradcliffe/Library/Developer/CoreSimulator/Devices/7BE119C8-184C-4510-A7DD-C9ED5289D48C/data/Containers/Data/Application/73EDEC90-80D2-4C94-8E9D-D1DEDA704EFB/Library/Cookies/Cookies.binarycookies
+2014-10-06 13:50:25.254 CordovaBaby[82110:1623057] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-06 13:50:25.255 CordovaBaby[82110:1623057] Multi-tasking -> Device: YES, App: YES
+2014-10-06 13:50:25.259 CordovaBaby[82110:1623057] Unlimited access to network resources
+2014-10-06 13:50:25.261 CordovaBaby[82110:1623057] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-06 13:50:25.430 CordovaBaby[82110:1623057] Resetting plugins due to page load.
+2014-10-06 13:50:25.479 CordovaBaby[82110:1623057] Finished load of: file:///Users/dradcliffe/Library/Developer/CoreSimulator/Devices/7BE119C8-184C-4510-A7DD-C9ED5289D48C/data/Containers/Bundle/Application/14B51458-1548-4DE5-A436-411A4CE3F092/CordovaBaby.app/www/index.html
+2014-10-06 13:50:29.928 CordovaBaby[82110:1623057] THREAD WARNING: ['Notification'] took '21.701904' ms. Plugin should use a background thread.
